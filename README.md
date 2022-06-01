@@ -1,7 +1,7 @@
 <strong>Hi, Everyone 🙌🏻</strong>  
-- My name is Minjung Choi 🐿 @pikiforyou    
+- My name is Yonghun Choi
 - I’m an enthusiastic Junior software engineer  
-- Backend/Server Developer  
+- Backend/Server Developer
 <br>
 <br>
 <strong>⭐️ Languages and Tools :</strong>
