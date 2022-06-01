@@ -11,8 +11,6 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25px" height="25px" title="python"/></code> 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25px" height="25px" title="sql"/></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25px" height="25px" title="javascript"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25px" height="25px" title="typescript"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25px" height="25px" title="react"/></code>
 <br><br>
 <strong>🔥 I'm interested in :</strong>  
 <br>  
@@ -22,7 +20,6 @@
 <br><br>
 <strong>💼 Career :</strong>
 <br>
-2021.06 ~ 2022.01 >> DATEPOP: Server/Backend Developer  
 
 2022.02 ~ >>
 <br><br><br>
